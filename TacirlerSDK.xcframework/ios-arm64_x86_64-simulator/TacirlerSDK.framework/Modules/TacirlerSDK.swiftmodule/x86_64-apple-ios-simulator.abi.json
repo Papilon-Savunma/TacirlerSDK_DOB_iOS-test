@@ -54524,535 +54524,535 @@
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2212,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2444,
+      "offset": 2548,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2506,
+      "offset": 2610,
       "length": 8,
       "value": "\"Uyarı\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2650,
+      "offset": 2754,
       "length": 7,
       "value": "\"Tamam\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 2808,
+      "offset": 2912,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2913,
+      "offset": 3017,
       "length": 8,
       "value": "\"Dikkat\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 2932,
+      "offset": 3036,
       "length": 219,
       "value": "\"Değerli yatırımcımız, video görüşme öncesinde;\n\n- Görüntülü görüşme esnasında yalnız olduğunuzdan\n- Bulunduğunuz ortamın sessiz ve yeterince aydınlık (doğal ışık) olduğundan emin olunuz.\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3259,
+      "offset": 3363,
       "length": 7,
       "value": "\"Tamam\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3466,
+      "offset": 3570,
       "length": 19,
       "value": "\"video_call_status\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3568,
+      "offset": 3672,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 3668,
+      "offset": 3772,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 3717,
+      "offset": 3821,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4013,
+      "offset": 4117,
       "length": 21,
       "value": "\"https:\/\/meet.jit.si\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4275,
+      "offset": 4379,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4380,
+      "offset": 4484,
       "length": 4,
       "value": "\"-1\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4625,
+      "offset": 4729,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4757,
+      "offset": 4861,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4933,
+      "offset": 5037,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5068,
+      "offset": 5172,
       "length": 4,
       "value": "\"-2\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5313,
+      "offset": 5417,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5445,
+      "offset": 5549,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5622,
+      "offset": 5726,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 5800,
+      "offset": 5904,
       "length": 7,
       "value": "\"error\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 5814,
+      "offset": 5918,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 6042,
+      "offset": 6146,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 6835,
+      "offset": 6939,
       "length": 10,
       "value": "\"binddata\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7035,
+      "offset": 7139,
       "length": 8,
       "value": "\"room: \""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 7087,
+      "offset": 7191,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7749,
+      "offset": 7853,
       "length": 14,
       "value": "\"chat.enabled\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7778,
+      "offset": 7882,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7832,
+      "offset": 7936,
       "length": 20,
       "value": "\"add-people.enabled\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7867,
+      "offset": 7971,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 7921,
+      "offset": 8025,
       "length": 16,
       "value": "\"invite.enabled\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 7952,
+      "offset": 8056,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8006,
+      "offset": 8110,
       "length": 23,
       "value": "\"notifications.enabled\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8044,
+      "offset": 8148,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8098,
+      "offset": 8202,
       "length": 20,
       "value": "\"raise-hand.enabled\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8133,
+      "offset": 8237,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 8281,
+      "offset": 8385,
       "length": 23,
       "value": "\"toolbox.alwaysVisible\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8319,
+      "offset": 8423,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 8773,
+      "offset": 8877,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9137,
+      "offset": 9241,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 9245,
+      "offset": 9349,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9353,
+      "offset": 9457,
       "length": 16,
       "value": "\"arrow.backward\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 9429,
+      "offset": 9533,
       "length": 4,
       "value": "15.0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 9682,
+      "offset": 9786,
       "length": 7,
       "value": "\"xmark\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "FloatLiteral",
-      "offset": 9749,
+      "offset": 9853,
       "length": 4,
       "value": "15.0"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10322,
+      "offset": 10426,
       "length": 3,
       "value": "-40"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10414,
+      "offset": 10518,
       "length": 3,
       "value": "-10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10504,
+      "offset": 10608,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10591,
+      "offset": 10695,
       "length": 2,
       "value": "90"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10703,
+      "offset": 10807,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10806,
+      "offset": 10910,
       "length": 3,
       "value": "-30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10908,
+      "offset": 11012,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 10983,
+      "offset": 11087,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11095,
+      "offset": 11199,
       "length": 2,
       "value": "40"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11191,
+      "offset": 11295,
       "length": 3,
       "value": "-80"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11286,
+      "offset": 11390,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11354,
+      "offset": 11458,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11459,
+      "offset": 11563,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11555,
+      "offset": 11659,
       "length": 3,
       "value": "-30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 11650,
+      "offset": 11754,
       "length": 2,
       "value": "30"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11802,
+      "offset": 11906,
       "length": 8,
       "value": "\"Uyarı\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11821,
+      "offset": 11925,
       "length": 53,
       "value": "\"Görüşmeden ayrılmak istediğinize emin misiniz?\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 11970,
+      "offset": 12074,
       "length": 7,
       "value": "\"Tamam\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12119,
+      "offset": 12223,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12184,
+      "offset": 12288,
       "length": 8,
       "value": "\"İptal\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 12366,
+      "offset": 12470,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12831,
+      "offset": 12935,
       "length": 8,
       "value": "\"Uyarı\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 12850,
+      "offset": 12954,
       "length": 51,
       "value": "\"Lütfen internet bağlantınızı kontrol ediniz.\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13009,
+      "offset": 13113,
       "length": 7,
       "value": "\"Tamam\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 13174,
+      "offset": 13278,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13301,
+      "offset": 13405,
       "length": 9,
       "value": "\"Network\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13774,
+      "offset": 13878,
       "length": 8,
       "value": "\"Uyarı\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13793,
+      "offset": 13897,
       "length": 30,
       "value": "\"Görüşmeden ayrıldınız.\""
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "StringLiteral",
-      "offset": 13923,
+      "offset": 14027,
       "length": 7,
       "value": "\"Tamam\""
-    },
-    {
-      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 14082,
-      "length": 4,
-      "value": "true"
     },
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
@@ -55064,7 +55064,14 @@
     {
       "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 14459,
+      "offset": 14290,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/macmini\/DevProjects\/iosProjects\/TacirlerSDKWorkingDirectory\/master-test\/tacirlersdksourcecode\/TacirlerSDK\/Classes\/VideoCallViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14563,
       "length": 4,
       "value": "true"
     },

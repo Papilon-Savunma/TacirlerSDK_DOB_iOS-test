@@ -1,6 +1,6 @@
 # TacirlerSDK_DOB_iOS-test
 
-[![pod - 2.0.1](https://img.shields.io/badge/pod-2.0.1-blue)](https://cocoapods.org/)
+[![pod - 2.0.2](https://img.shields.io/badge/pod-2.0.2-blue)](https://cocoapods.org/)
 
 ## Requirements
 
